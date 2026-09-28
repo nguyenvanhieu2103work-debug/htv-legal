@@ -1,0 +1,93 @@
+========== TIN 1/3 ==========
+🎬 KỊCH BẢN QUAY — HTV MARKET RADAR 28/09/2026
+Nguồn: báo cáo tự động HTV Market Radar 08:30 (chạy 08:38 GMT+7 hôm nay)
+Data window: 08:30 27/09 → 08:30 28/09
+Định dạng: dọc 9:16, 90–95 giây
+
+⚠️ TRƯỚC KHI QUAY: số chốt lúc 08:30. Quay muộn hơn thì kiểm lại giá vàng giao ngay, BTC, lợi suất 10Y; lệch thì sửa cả lời thoại và đồ hoạ. Đừng đọc số cũ như số realtime.
+
+🎯 GÓC KỂ CHÍNH
+Địa chính trị nóng lên mà vàng vẫn giảm — vì lợi suất đang thắng.
+Tin Hormuz + Brent ~106 USD là chất xúc tác kinh điển cho vàng, nhưng vàng lại rơi khỏi vùng 4.284. Đây là anomaly thật, hook không cần nói quá.
+Góc phụ giữ video: ETF Bitcoin hút ròng 2,39 tỷ USD mà giá đứng quanh 84.000.
+
+📊 SỐ LIỆU CHỐT — đọc đúng
+• Vàng giao ngay: 4.233–4.265 USD/oz (sáng nay)
+• Vàng đóng tuần trước: ~4.284 USD/oz, −2,1% cả tuần
+• Lợi suất 10Y Mỹ: 5,20% — cao nhất 19 năm
+• Xác suất Fed TĂNG lãi suất tháng 10: ~64% (đầu tuần ~66%)
+• Dầu Brent: ~106 USD/thùng
+• Bitcoin: đi ngang quanh 84.000 USD
+• Dòng tiền ETF BTC: +2,39 tỷ USD ròng tuần trước (giá tuần đó −2%)
+• SJC: 141,4–144,4 triệu/lượng (giảm 3,2 triệu tuần trước)
+• Lịch: PCE thứ Tư 30/9 · NFP thứ Sáu 2/10, 19:30 giờ VN
+
+QUY TẮC PHÁT NGÔN: số liệu = FACT. Câu "vì sao" = INTERPRETATION, nói giọng phỏng đoán ("lý do khả năng nằm ở…", "thị trường đang định giá…"). Không nói chắc giá sẽ tăng/giảm.
+
+========== TIN 2/3 ==========
+🎬 SCENE 1 — HOOK · 0:00–0:08
+Hình: cận mặt, chính diện, nhìn thẳng ống kính. Không intro, không nhạc dạo. Nói ngay từ frame đầu. Tay giữ yên.
+LỜI: "Trump vừa bác đề xuất mở lại eo Hormuz. Dầu Brent lên 106 đô. Vậy vàng phải tăng, đúng không? Sai — vàng giảm."
+Chữ: VÀNG GIẢM (đỏ, đậm) hiện đúng lúc nói "Sai", giữ 1,5s
+👉 Ngắt nhịp 0,3s trước chữ "Sai". Nhịp ngắt này là cái giữ người xem.
+
+🎬 SCENE 2 — ĐẶT DỮ KIỆN · 0:08–0:22
+Hình: giữ cận mặt 3s → cắt sang đồ hoạ G1 toàn khung, mặt thu nhỏ góc dưới-phải.
+LỜI: "Sáng nay vàng giao ngay 4.233 đến 4.265 đô một ounce, sau khi đóng tuần ở 4.284 — cả tuần mất 2,1%. Trong khi đó rủi ro địa chính trị thì đang tăng, chứ không giảm."
+Chữ: 4.284 → 4.233–4.265 USD/oz · −2,1%/tuần
+B-roll: 2s bản đồ eo Hormuz khoanh đỏ, chèn ở câu cuối
+
+🎬 SCENE 3 — VÌ SAO (lõi video) · 0:22–0:48
+Hình: quay lại người dẫn, lệch góc 15° để chuyển ý. Hai bàn tay làm động tác "cân" ở câu cuối.
+LỜI: "Lý do khả năng nằm ở đây. Lợi suất trái phiếu 10 năm của Mỹ lên 5,20% — vùng cao nhất 19 năm. Và thị trường đang định giá khoảng 64% khả năng Fed TĂNG lãi suất trong tháng 10. Khi tiền không rủi ro trả cho bạn hơn 5% một năm, cái giá phải trả để giữ vàng đắt hơn nhiều. Địa chính trị đẩy vàng lên, lợi suất kéo vàng xuống — hiện tại chân kéo đang mạnh hơn."
+Chữ: 10Y MỸ 5,20% — CAO NHẤT 19 NĂM (3s) → FED TĂNG LÃI SUẤT THÁNG 10: ~64%
+👉 Nhấn mạnh từ "TĂNG" — nhiều người vẫn mặc định Fed đang giảm lãi suất. Đây là điểm đảo kỳ vọng.
+
+🎬 SCENE 4 — BITCOIN · 0:48–1:08
+Hình: cắt cứng sang đồ hoạ G3 (không transition), voice-over 5s đầu rồi về khung mặt.
+LỜI: "Bitcoin cũng có một điểm lạ. Giá đi ngang quanh 84 nghìn đô, gần như không nhích. Nhưng tuần trước các quỹ ETF Bitcoin hút ròng 2,39 tỷ đô. Tiền vào mạnh mà giá không lên, nghĩa là có lực bán ở đâu đó đang hấp thụ hết. Đây là thứ để theo dõi, không phải tín hiệu mua."
+Chữ: +2,39 TỶ USD VÀO ETF · GIÁ ĐỨNG YÊN
+👉 Câu cuối ("không phải tín hiệu mua") BẮT BUỘC giữ, không cắt.
+
+========== TIN 3/3 ==========
+🎬 SCENE 5 — VIỆT NAM · 1:08–1:18
+Hình: khung rộng hơn (thấy vai) để đổi nhịp.
+LỜI: "Trong nước, SJC vẫn giữ 141,4 đến 144,4 triệu một lượng, gần như đứng yên, trong khi giá thế giới đã giảm mạnh cả tuần trước. Khoảng vênh đó là rủi ro của người mua ở vùng đỉnh."
+Chữ: SJC 141,4–144,4 TRIỆU/LƯỢNG · dòng nhỏ: thế giới −2,1% tuần trước
+
+🎬 SCENE 6 — CẦN THEO DÕI · 1:18–1:32
+Hình: đồ hoạ G4 dạng lịch, người dẫn thu nhỏ góc dưới.
+LỜI: "Hai mốc quyết định tuần này: PCE vào thứ Tư, và báo cáo việc làm NFP thứ Sáu, 19 giờ 30 giờ Việt Nam. Lạm phát nóng cộng việc làm mạnh thì xác suất Fed tăng lãi suất sẽ nhích lên, và vàng còn chịu áp lực. Ngược lại, phe vàng sẽ có cớ để quay lại."
+👉 Trình bày như hai kịch bản, không chọn bên.
+
+🎬 SCENE 7 — CHỐT & CTA · 1:32–1:40
+Hình: cận mặt, nhìn thẳng, hạ tốc độ nói.
+LỜI: "Đây là thông tin thị trường, không phải lời khuyên đầu tư. Bạn nghĩ sao — địa chính trị thắng, hay lợi suất thắng? Comment cho tôi biết."
+Chữ: KHÔNG PHẢI KHUYẾN NGHỊ ĐẦU TƯ (dòng nhỏ đáy khung, giữ đến hết)
+👉 Dừng máy sau 1 giây im lặng để có đuôi cắt.
+
+🎨 ĐỒ HOẠ DỰNG TRƯỚC KHI QUAY
+G1 — vàng: 4.284 → 4.233–4.265, nhãn −2,1%
+G2 — hai mũi tên đối kháng: ĐỊA CHÍNH TRỊ ↑ vs LỢI SUẤT 5,20% + FED ~64% ↓ (mũi tên xuống to hơn rõ rệt) ← QUAN TRỌNG NHẤT
+G3 — cột ETF +2,39 tỷ cạnh đường giá BTC phẳng
+G4 — lịch: THỨ TƯ 30/9 PCE · THỨ SÁU 2/10 19:30 NFP
+
+🎥 KỸ THUẬT
+9:16, 1080x1920+, 30fps. Đèn chính 45° trước mặt, không đèn sau lưng. Mic cài áo hoặc shotgun — video toàn số liệu, nghe rõ là bắt buộc. Nhạc nền dưới −22dB, không beat drop, cắt hẳn ở Scene 7.
+
+✍️ CAPTION
+Dầu lên 106 đô vì căng thẳng Hormuz, mà vàng vẫn giảm về 4.233–4.265 USD/oz. Nguyên nhân: lợi suất 10 năm Mỹ 5,20% — cao nhất 19 năm — và thị trường đang định giá ~64% khả năng Fed tăng lãi suất tháng 10.
+Bitcoin đi ngang quanh 84.000 USD dù ETF hút ròng 2,39 tỷ USD tuần trước.
+Tuần này chờ PCE (thứ Tư) và NFP (thứ Sáu 19:30).
+Số liệu theo HTV Market Radar 08:30 ngày 28/09. Không phải khuyến nghị đầu tư.
+
+#vang #giavang #bitcoin #fed #laisuat #kinhtevimo #dautu #HTV #thitruongtaichinh
+
+Thumbnail: DẦU 106 ĐÔ — VÀNG VẪN GIẢM. VÌ SAO?
+
+✅ CHECK TRƯỚC KHI ĐĂNG
+□ Số trong lời thoại khớp đồ hoạ và khớp báo cáo 08:30
+□ Nói "thị trường đang định giá ~64%", KHÔNG nói "Fed sẽ tăng lãi suất"
+□ Câu "không phải tín hiệu mua" còn trong bản dựng
+□ Câu miễn trừ nghe rõ, không bị nhạc đè
+□ Caption có nguồn + ngày dữ liệu
